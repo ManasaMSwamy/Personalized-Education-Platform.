@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4b6baea4-2c4c-4d8b-83ce-aee254ac2661" />
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -53,19 +54,19 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ## Available Scripts
 
-- `npm run dev` — start Vite dev server
-- `npm run build` — build production assets
-- `npm run preview` — preview the production build locally
-- `npm run clean` — remove the `dist` folder
-- `npm run lint` — run TypeScript type checks
+- `npm run dev` â€” start Vite dev server
+- `npm run build` â€” build production assets
+- `npm run preview` â€” preview the production build locally
+- `npm run clean` â€” remove the `dist` folder
+- `npm run lint` â€” run TypeScript type checks
 
 ## Project Structure
 
-- `src/` — application source files
-- `src/components/` — React components and UI pages
-- `src/services/` — API and AI service wrappers
-- `server/` — backend route handlers
-- `public/` — static assets (if present)
+- `src/` â€” application source files
+- `src/components/` â€” React components and UI pages
+- `src/services/` â€” API and AI service wrappers
+- `server/` â€” backend route handlers
+- `public/` â€” static assets (if present)
 
 ## Notes
 
