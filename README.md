@@ -1,8 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4b6baea4-2c4c-4d8b-83ce-aee254ac2661" />
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # EduSlide AI
 
 A React + Vite AI-powered presentation app for generating and interacting with study materials, presentations, certificates, and adaptive learning features.
